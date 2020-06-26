@@ -1,0 +1,23 @@
+.title {
+    margin-top: 200px;
+}
+p{
+    font-style:italic;
+}
+div{
+    margin-top:30px;
+}
+button{
+    text-align:center;
+    height:40px;
+    width:100px;
+    background-color:white;
+    border:1px solid #99CCCC;
+    border-radius:5px;
+    margin-left:30px;
+    color:#99CCCC;
+}
+a{
+    color:black;
+    text-decoration:none;
+}

@@ -1,0 +1,29 @@
+
+div{
+    text-align: center;
+    /* margin-left:315px; */
+    margin-top:10px;
+}
+.label {
+    margin-left: -125px;
+}
+input.text{
+    margin-top:10px;
+    margin-left:60px;
+}
+.button-div {
+    text-align:center;
+}
+button{
+    height:40px;
+    width:100px;
+    background-color:white;
+    border:1px solid #99CCCC;
+    border-radius:5px;
+    margin-left:25px;
+    margin-top:15px;
+    color:#99CCCC;
+}
+p{
+    margin-top:10px;
+}
