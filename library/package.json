@@ -11,7 +11,7 @@
     "axios": "^0.19.2",
     "css-loader": "^3.5.3",
     "extracted-loader": "^1.0.7",
-    "highlight.js": "^10.0.3",
+    "highlight.js": "^10.1.2",
     "lodash": "^4.17.15",
     "markdown-navbar": "^1.4.2",
     "marked": "^1.1.0",
