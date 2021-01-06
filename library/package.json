@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "css-loader": "^3.5.3",
     "extracted-loader": "^1.0.7",
     "highlight.js": "^10.0.3",
